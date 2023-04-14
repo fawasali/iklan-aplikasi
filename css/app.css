@@ -1,0 +1,90 @@
+body{
+    font-family: 'Ubuntu' ;
+}
+
+.header .navbar-brand{
+    font-family: 'Ubuntu' , sans-serif;
+    font-size: 20px;
+}
+
+.bg-custum{
+    background: #648cff;
+}
+
+.nav-item{
+    font-size: 15px;
+}
+
+.btn-orange{
+    background: #fc6a42;
+    color: white !important;
+    font-weight: bold;
+}
+
+.btn-orange:hover{
+    background: #a8482d;
+}
+
+.btn-blue{
+    background: #4466c9;
+    color: white !important;
+    font-weight: bold;
+}
+
+.btn-blue:hover{
+    background: #30478d;
+}
+
+.header-costum{
+    background: url(../asset/wave.png)  no-repeat;
+    border-image-width: 1080px;
+
+    background-position-y: bottom; 
+}
+
+.text-costum{
+    color: #648cff;
+}
+
+/* Perfect Section*/
+.perfect h4{
+    color: #353854;
+    font-size: 24x;
+}
+
+.perfect p{
+    font-size: 14x;
+}
+
+.wrapper-widget i{
+    color: #c3cfe5;
+    font-size: 55px;
+}
+
+.wrapper-widget .left{
+    left: -100px!important;
+    cursor: pointer;
+}
+
+.right{
+    right: -100px!important;
+    cursor: pointer;
+}
+
+.screenshot-text{
+    font-size: 18px;
+    font-family: 'Ubuntu' , sans-serif;
+}
+
+.komentar p{
+    color: #b3b3b3;
+    font-size: 15px;
+}
+
+.komentar h1{
+    color: #4466c9 ; 
+}
+
+.komentar .text-costum{
+    
+}
